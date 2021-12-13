@@ -17,7 +17,7 @@ Fetch users details
 
 *   Minimum SDK 17
 *   [AndroidX](https://developer.android.com/jetpack/androidx/) - Previously known as 'Android support Library'
-*   [Glide](https://github.com/bumptech/glide) - for loading and caching images 
+*   [Coil](https://github.com/coil-kt/coil) - for loading and caching images backed by Kotlin Coroutines.
 *   [Retrofit 2](https://github.com/square/retrofit) - for API integration. 
 *   [coroutines](https://developer.android.com/kotlin/coroutines) for concurrency design pattern that executes asynchronously.
 *   [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) for dependency injection.
