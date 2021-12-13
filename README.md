@@ -13,6 +13,20 @@ Fetch users details
 
 
 
+## 📃 Libraries used
+
+*   Minimum SDK 17
+*   [AndroidX](https://developer.android.com/jetpack/androidx/) - Previously known as 'Android support Library'
+*   [Glide](https://github.com/bumptech/glide) - for loading and caching images 
+*   [Retrofit 2](https://github.com/square/retrofit) - for API integration. 
+*   [coroutines](https://developer.android.com/kotlin/coroutines) for concurrency design pattern that executes asynchronously.
+*   [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) for dependency injection.
+*   [Moshi](https://github.com/square/moshi) - to serialize and deserialize the JSON in a better and simpler way.
+*   [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
+*   [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+*   [Room](https://developer.android.com/training/data-storage/room)
+
+
 
 ## Authors
 
