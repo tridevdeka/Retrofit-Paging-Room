@@ -22,9 +22,9 @@ Fetch users details
 *   [coroutines](https://developer.android.com/kotlin/coroutines) for concurrency design pattern that executes asynchronously.
 *   [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) for dependency injection.
 *   [Moshi](https://github.com/square/moshi) - to serialize and deserialize the JSON in a better and simpler way.
-*   [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
-*   [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
-*   [Room](https://developer.android.com/training/data-storage/room)
+*   [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - an observable data holder class & lifecycle aware.
+*   [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - to store and manage UI-related data in a lifecycle conscious way.
+*   [Room](https://developer.android.com/training/data-storage/room) - The Room persistence library
 
 
 
